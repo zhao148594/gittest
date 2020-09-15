@@ -6,5 +6,6 @@ package com.zzc.controller;
 public class Test {
     void test(){
         System.out.println("hello");
+        System.out.println("git");
     }
 }
